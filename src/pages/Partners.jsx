@@ -14,7 +14,6 @@ export default function Partners() {
     title: isEN ? 'Business Partners | Kade New Media' : 'İş Ortakları | Kade New Media',
     description: isEN ? 'Verified Kade New Media business partner information.' : 'Doğrulanmış Kade New Media iş ortaklığı bilgileri.',
     path: '/partnerler',
-    noindex: true,
   })
 
   const platforms = [

@@ -31,7 +31,6 @@ export default function Blog() {
     path: '/blog',
     // Liste dolu olsa da ürün kararı gereği public arşiv indeks dışıdır.
     // Detay bağlantıları `follow` ile taranabilir kalır.
-    noindex: true,
   })
 
   useEffect(() => {

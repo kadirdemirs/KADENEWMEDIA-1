@@ -18,7 +18,7 @@ const workspaces = [
     title: 'Content AI',
     description: 'KADE AI içerik araçlarını açın, üretimlerinize ve çalışma alanınıza devam edin.',
     cta: 'Content AI girişine git',
-    to: '/kadeai/login',
+    to: 'https://kadeai.vercel.app/kadeai/login',
     icon: HiOutlineSparkles,
     external: true,
   },

@@ -17,7 +17,6 @@ export default function CaseStudies() {
     title: 'Vaka Çalışmaları | Kade New Media',
     description: 'Müşteri izniyle yayınlanan, doğrulanmış Kade New Media vaka çalışmaları.',
     path: '/basari-hikayeleri',
-    noindex: true,
   })
 
   return (

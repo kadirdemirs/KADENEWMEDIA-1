@@ -37,7 +37,6 @@ export default function Portfolio() {
     description:
       'Kade New Media portfolyosu. Yayınlanan sosyal medya, içerik, reklam ve prodüksiyon projelerini inceleyin.',
     path: '/portfolio',
-    noindex: true,
   })
 
   useEffect(() => {
